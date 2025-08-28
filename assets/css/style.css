@@ -20,16 +20,16 @@ body {
 }
 
 :root {
-    --nevi-blue: #00154c;
-    --primary-2: #d4f941;
-    --primary: #5648ff;
-    --gray-5: #e3e8f8;
-    --gray-2: #384973;
-    --gray-1: #00154c;
-    --nevi-blue2: #070707;
-    --dark-navy-blue: #001447;
-    --black: #000920;
-    --secondary: #36b7ff
+    --nevi-blue: #208f3c;
+    --primary-2: #a693fd;
+    --primary: #62f869;
+    --gray-5: #F3F4F6;
+    --gray-2: #4B5563;
+    --gray-1: #1F2937;
+    --nevi-blue2: #111827;
+    --dark-navy-blue: #1eaf36;
+    --black: #111827;
+    --secondary: #60A5FA
 }
 
 @media (min-width: 1400px) {
@@ -690,8 +690,8 @@ body.body-active::after {
 
 .banner {
     min-height: 100vh;
-    background: -webkit-gradient(linear, left top, left bottom, from(#4033d9), to(#5648ff));
-    background: linear-gradient(180deg, #4033d9 0%, #5648ff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#33d9a7), to(#5dff48));
+    background: linear-gradient(180deg, #33c6d9 0%, #48ff60 100%);
     position: relative;
     -webkit-transition: -webkit-filter 0.2s linear;
     transition: -webkit-filter 0.2s linear;
